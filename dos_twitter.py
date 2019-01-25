@@ -24,8 +24,6 @@ from driving_chrome import CHROME_DRIVER
 import twitter_credentials
 
 
-os.chdir(r'C:\Users\janit\Documents\GIT\twitterDOS')
-
 
 # WEBSCRAPING TWITTER USING SELENIUM
 class TwitterLogin():
